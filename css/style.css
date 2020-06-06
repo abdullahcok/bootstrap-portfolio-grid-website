@@ -1,10 +1,18 @@
 body{
-  font-family: 'Noto Sans HK', sans-serif;
+     font-family: 'Roboto Mono', monospace;
 }
 
 .bg-black {
   background: #000;
   color: #fff; }
+
+a{
+  text-decoration: none;
+  color: #111;
+}
+a:hover{
+  
+}
 
 #main-header{
 }
@@ -42,32 +50,48 @@ body{
       background-color: #1a1a1a;
     }
     .gray{
-      color: #1d1d1d;
+      color: #1c1c1c;
     }
     .gray-bg{
-      background-color: #1d1d1d;
+      background-color: #1c1c1c;
     }
 
+    .darkie-bg{
+      background-color: #1f1f1f;
+}
+
+
+    
+    .lbue{
+      color: #7297cc;
+    }
+    .lblue-bg{
+      background-color: #7297cc;
+    }Resume
+
+
     .blue{
-      color: #001433;
+      color: #112255;
     }
     .blue-bg{
-      background-color: #001433;
+      background-color: #112255;
     }
 
     .plue{
-      color: #7300e6;
+      color: #440099;
     }
 
     .plue-bg{
-      background-color: #7300e6;
+      background-color: #440099;
+    }
+    
+    
+    .purple{
+      color: #661166;
     }
 
-    .green{
-      color: #99ffd6;
-    }
-    .green-bg{
-      background-color: #99ffd6;
+    .purple-bg{
+      background-color: #661166;
     }
 
     .brown{
@@ -76,14 +100,6 @@ body{
 
     .brown-bg{
       background-color: #cc7a00;
-    }
-
-    .boogreen{
-      color: #999966;
-    }
-
-    .boogreen-bg{
-      background-color: #999966;
     }
 
 
