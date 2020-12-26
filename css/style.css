@@ -1,6 +1,15 @@
 body{
      font-family: 'Roboto Mono', monospace;
+     background: #1a1a1a;
 }
+
+.container{
+    min-width: 100%;
+    min-height: 100%;
+    padding: 3.6vh 0.1vh;
+    align-items: center;
+}
+
 
 .bg-black {
   background: #000;
@@ -11,7 +20,7 @@ a{
   color: #111;
 }
 a:hover{
-  
+
 }
 
 #main-header{
@@ -19,7 +28,8 @@ a:hover{
 
 #main-header img {
   width: 100%;
-  height: 100%; }
+  height: 100%;
+  padding:4vh;}
 
 #main-header .port-item {
   width: 30%; }
@@ -61,7 +71,7 @@ a:hover{
 }
 
 
-    
+
     .lbue{
       color: #7297cc;
     }
@@ -84,8 +94,8 @@ a:hover{
     .plue-bg{
       background-color: #440099;
     }
-    
-    
+
+
     .purple{
       color: #661166;
     }
@@ -102,6 +112,17 @@ a:hover{
       background-color: #cc7a00;
     }
 
+    .redd{
+    color: #C51F54;
+    }
+
+    .infred{
+    color: #C5151C;
+    }
+
+    .yelloow{
+    color: #F5C518;
+    }
 
 
     /***************** menu items **************/
