@@ -1,2 +1,2 @@
 # bootstrap-portfolio-grid-website
-Second experience on Bootstrap within grid systems...
+fun of my official website.
