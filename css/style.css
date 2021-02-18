@@ -56,32 +56,36 @@ a:hover{
       background-color: #ffff5b;
     }
 
+    .lgray{
+      color: #4f4f4f;
+    }
     .dgray-bg{
       background-color: #1a1a1a;
     }
     .gray{
       color: #1c1c1c;
     }
+
     .gray-bg{
       background-color: #1c1c1c;
     }
 
     .darkie-bg{
       background-color: #1f1f1f;
-}
+    }
 
 
 
-    .lbue{
-      color: #7297cc;
+    .lblue{
+      color: #00B2EF;
     }
     .lblue-bg{
       background-color: #7297cc;
-    }Resume
+    }
 
 
     .blue{
-      color: #112255;
+      color: #2A3ECA;
     }
     .blue-bg{
       background-color: #112255;
@@ -112,12 +116,20 @@ a:hover{
       background-color: #cc7a00;
     }
 
+    .red{
+    color: #E52E38;
+    }
+
     .redd{
     color: #C51F54;
     }
 
     .infred{
     color: #C5151C;
+    }
+
+    .goodie{
+      color: #EEEEDA;
     }
 
     .yelloow{
